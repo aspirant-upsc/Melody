@@ -21,5 +21,7 @@ aiosqlite
 uvicorn
 fastapi
 
+pytgcalls==3.0.0
+
 google-generativeai
 
