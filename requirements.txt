@@ -1,34 +1,25 @@
-# --- Telegram & Pyrogram ---
 pyrogram==2.0.106
 tgcrypto
 
-# --- For Telegram Voice Chats (VC Music Bot) ---
-pytgcalls==3.0.0  # Working & stable release
+python-dotenv
+pydub
+ffmpeg-python
 
-# --- Bot Essentials ---
-python-telegram-bot==20.7
 aiohttp
 requests
 
-# --- Audio / Media Processing ---
-pydub
-ffmpeg-python
 pillow
 
-# --- Environment & Config ---
-python-dotenv
-
-# --- AI / Gemini ---
-google-generativeai
+SpeechRecognition
 pydantic
 
-# --- Database ---
+python-telegram-bot==20.7
+
 sqlalchemy
 aiosqlite
 
-# --- Web Server (Render Deployment) ---
-fastapi
 uvicorn
+fastapi
 
-# --- Speech Recognition / TTS / STT ---
-SpeechRecognition
+google-generativeai
+
