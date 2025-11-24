@@ -1,38 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>MelodyX — Advanced Telegram Music & AI Bot</title>
-  <style>
-    :root{
-      --bg:#0b0f14; --card:#0f1720; --muted:#9aa4b2; --accent:#10b981; --glass: rgba(255,255,255,0.03);
-      --mono: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    }
-    body{font-family:var(--mono); background:linear-gradient(180deg,#071018 0%, #05101a 100%); color:#e6eef6; margin:0; padding:32px;}
-    .wrap{max-width:980px;margin:0 auto;}
-    header{display:flex;gap:16px;align-items:center;margin-bottom:18px}
-    .logo{width:96px;height:96px;border-radius:12px;overflow:hidden;background:var(--glass);display:flex;align-items:center;justify-content:center;border:1px solid rgba(255,255,255,0.04)}
-    .logo img{width:100%;height:100%;object-fit:cover}
-    h1{font-size:28px;margin:0 0 4px}
-    .subtitle{color:var(--muted);margin-top:2px;font-size:13px}
-    .badges{margin-left:auto;display:flex;gap:8px;align-items:center}
-    .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01)); border-radius:12px; padding:18px; box-shadow:0 6px 18px rgba(2,6,23,0.6); border:1px solid rgba(255,255,255,0.02); margin-bottom:18px}
-    h2{font-size:18px;margin:0 0 8px}
-    pre{background:#081018;padding:12px;border-radius:8px;overflow:auto;color:#cfefff;font-size:13px;border:1px solid rgba(255,255,255,0.02)}
-    code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;background:rgba(255,255,255,0.02); padding:2px 6px;border-radius:6px}
-    ul{line-height:1.6;color:var(--muted)}
-    .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-    .full{grid-column:1/-1}
-    a.link{color:#a9e34b;text-decoration:none}
-    .owner{display:flex;gap:12px;align-items:center}
-    .owner .meta{font-size:14px}
-    .btn{display:inline-block;padding:8px 12px;border-radius:8px;background:linear-gradient(90deg,var(--accent),#06b6d4);color:#031019;font-weight:600;text-decoration:none}
-    footer{color:var(--muted);font-size:13px;padding:24px 0 60px}
-    .feature-list{display:flex;flex-direction:column;gap:6px}
-    img.preview{width:100%;border-radius:8px;border:1px solid rgba(255,255,255,0.03)}
-    @media(max-width:720px){.grid{grid-template-columns:1fr}}
-  </style>
+
 </head>
 <body>
   <div class="wrap">
