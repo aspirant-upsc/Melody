@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🎵 Melody — Telegram Music & AI Assistant Bot  
 
@@ -56,3 +56,42 @@ High-quality music, smooth performance, admin controls, and Gemini AI integrated
 ## 🔧 Installation
 
 ### 1️⃣ Clone Repository
+
+### 2️⃣ Install Dependencies
+### 3️⃣ Create `.env` File
+### Optional Dashboard
+---
+
+## 🚀 Run the Bot
+---
+
+## 📸 Screenshots
+
+<div align="center">
+<img src="https://i.imgur.com/TT6i1lR.jpeg" width="300">
+<img src="https://i.imgur.com/c2VENVU.jpeg" width="300">
+</div>
+
+---
+
+## 🔗 Contact & Support
+
+### 👤 **Owner**
+<a href="https://t.me/aspirant_u">📌 Telegram: @aspirant_u</a>
+
+### 💬 Support Group  
+<a href="https://t.me/melody_support">Join Support</a>
+
+---
+
+## ⭐ Star The Repo
+If you like this project, please ⭐ the repository to support development!
+
+---
+
+<div align="center">
+
+### Made with ❤️ in Python  
+Melody — A Next-Gen Telegram Music AI Bot  
+
+</div>
