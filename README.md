@@ -1,4 +1,4 @@
-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3701acdc-eaa3-4790-83dd-62404ffa7942" />
 
 # 🎵 Melody — Telegram Music & AI Assistant Bot  
 
