@@ -50,3 +50,9 @@ High-quality music, smooth performance, admin controls, and Gemini AI integrated
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 🔧 Installation
+
+### 1️⃣ Clone Repository
