@@ -1,4 +1,6 @@
-from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram import Update
+from telegram.ext import ContextTypes
+from handlers.profile import get_fancy_for_user
 from telegram.ext import ContextTypes
 from config import OWNER_NAME
 from handlers.profile import get_fancy_for_user
