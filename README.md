@@ -40,6 +40,7 @@
       <div class="logo">
         <!-- Replace assets/logo.png with your actual logo file inside repo/assets/ -->
         <img src="assets/logo.png" alt="MelodyX Logo" onerror="this.style.opacity=0.3; this.src='https://via.placeholder.com/96?text=Mx'"/>
+        
       </div>
       <div>
         <h1>MelodyX — Advanced Telegram Music & AI Bot</h1>
