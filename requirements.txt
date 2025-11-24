@@ -1,27 +1,23 @@
 pyrogram==2.0.106
 tgcrypto
-
-python-dotenv
-pydub
-ffmpeg-python
-
-aiohttp
-requests
-
-pillow
-
-SpeechRecognition
-pydantic
+pytgcalls==3.0.0
 
 python-telegram-bot==20.7
+aiohttp==3.9.5
+requests
+pillow==10.4.0
+
+python-dotenv==1.0.1
+pydub
+ffmpeg-python
+yt-dlp==2024.10.22
 
 sqlalchemy
 aiosqlite
 
-uvicorn
 fastapi
-
-py-tgcalls==2.2.8
+uvicorn
 
 google-generativeai
+pydantic
 
